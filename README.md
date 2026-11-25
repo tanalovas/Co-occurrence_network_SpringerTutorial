@@ -1,4 +1,4 @@
-# Co-occurrence_network_SpringerTutorial
+# Microbial Co-occurrence Network Reconstruction: a SpringerTutorial
 
 R tutorial for reconstructing microbial co-occurrence networks from 16S rRNA amplicon data using SPIEC-EASI. It accompanies the book chapter Microbial Co-Occurrence Network Reconstruction (Methods in Molecular Biology, Springer Nature).
 
